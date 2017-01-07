@@ -12,7 +12,7 @@ notes on Ruby
 
 **Thoughts:** Still enjoying this. I'm anxious to start playing around with it on a live platform. 
 
-**Link to work:** [Ruby Course]()
+**Link to work:** [Ruby Course](https://www.codecademy.com/courses/ruby-beginner-en-1o8Mb/0/1?curriculum_id=5059f8619189a5000201fbcb)
 
 
 ### Day 3: January 6, 2017
