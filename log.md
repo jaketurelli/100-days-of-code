@@ -6,6 +6,15 @@ notes on Ruby
 2. Symbol-as-keys are faster than strings-as-keys because they're immutable and only one copy of any symbol exists at a given time, so they save memory
 
 
+### Day 5: January 8, 2017
+
+**Today's Progress**: Worked a bit on Ruby in the morning and on my website. 1 hour
+
+**Thoughts:** CSS and HTML are not my favorite. I don't really like front-end coding. I'd like to get good at them and change this perspective. I think building my website will be a good opportunity for this. 
+
+**Link to work:** [my website](https://www.jaketurelli.com)
+
+
 ### Day 4: January 7, 2017
 
 **Today's Progress**: Hash and Symbols. 1 hour
