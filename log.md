@@ -17,7 +17,7 @@ notes on Ruby
 
 ### Day 6: January 9, 2017
 
-**Today's Progress**: Finshed The Zen of Ruby. 1 hour
+**Today's Progress**: Finshed The Zen of Ruby and worked on my website. 1 hour
 
 **Thoughts:** . 
 
