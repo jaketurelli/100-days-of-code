@@ -5,6 +5,15 @@ notes on Ruby
 1. indices start at 0
 2. Symbol-as-keys are faster than strings-as-keys because they're immutable and only one copy of any symbol exists at a given time, so they save memory
 
+### Day 6: January 9, 2017
+
+**Today's Progress**: Finshed The Zen of Ruby. 1 hour
+
+**Thoughts:** . 
+
+**Link to codecademy:** [Latest Ruby](https://www.codecademy.com/courses/ruby-beginner-en-Zjd2y/0/1?curriculum_id=5059f8619189a5000201fbcb)
+**Link to website:** [Jake Turelli](https://www.jaketurelli.com)
+
 
 ### Day 5: January 8, 2017
 
