@@ -7,11 +7,11 @@ notes on Ruby
 
 ### Day 7: January 10, 2017
 
-**Today's Progress**: Finshed Refactoring. 1 hour
+**Today's Progress**: Finished Refactoring. 1 hour
 
 **Thoughts:** . 
 
-**Link to codecademy:** [Latest Ruby](https://www.codecademy.com/courses/ruby-beginner-en-L3ZCI/1/2?curriculum_id=5059f8619189a5000201fbcb)
+**Link to codecademy:** [Latest Ruby](https://www.codecademy.com/courses/ruby-beginner-en-L3ZCI/2/2?curriculum_id=5059f8619189a5000201fbcb)
 **Link to website:** [Jake Turelli](https://www.jaketurelli.com)
 
 
