@@ -6,6 +6,17 @@ notes on Ruby
 2. Symbol-as-keys are faster than strings-as-keys because they're immutable and only one copy of any symbol exists at a given time, so they save memory
 
 
+### Day 17: January 22, 2017
+
+**Today's Progress**: Finished up to 7.2 Rendering a Partial Form. 1 hour.
+
+**Thoughts:** Pretty complex stuff and the tutorial is a bit hard to follow as I think ruby on rails has changed a bit since this tutorial was released. Things don't quite match up exactly so I've had to modify some things. I don't mind though, and when things go wrong, it forces me to learn more. Good stuff.
+
+**Link to guides.rubyonrails.org:** [7.2 Rendering a Partial Form](http://guides.rubyonrails.org/getting_started.html#getting-up-and-running)
+**Link to website:** [Jake Turelli](https://www.jaketurelli.com)
+
+
+
 ### Day 16: January 21, 2017
 
 **Today's Progress**: Finished 5 Getting Up and Running. 1 hour.
