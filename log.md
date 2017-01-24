@@ -4,6 +4,26 @@ notes on Ruby
 
 1. indices start at 0
 2. Symbol-as-keys are faster than strings-as-keys because they're immutable and only one copy of any symbol exists at a given time, so they save memory
+3. <% %> will evaluate the code, but will not print the output.
+   <%= %> will evaluate the code AND print the output.
+4. [Security](http://guides.rubyonrails.org/security.html)
+5. Authentication
+   a) [Devise](https://github.com/plataformatec/devise)
+   b) [Authlogic](https://github.com/binarylogic/authlogic)
+6. [Ruby on Rails Guides](http://guides.rubyonrails.org/index.html)
+7. [Ruby on Rails Tutorial](http://railstutorial.org/book)
+8. [Ruby on Rails mailing list](http://groups.google.com/group/rubyonrails-talk)
+9. [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html#getting-up-and-running)
+10. store all external data as UTF-8
+
+
+### Day 18: January 23, 2017
+
+**Today's Progress**: Finished the blog RoR getting started tutorial. 1 hour.
+
+**Thoughts:** The delete functionalities for comments and articles do not work. I'd like to fix these and understand why they aren't working before moving forward. There are a lot of good references at the end of this tutorial (listed in the notes above). I want to take some time read through these and get a feel for navigating Ruby on Rail resources before starting the next RoR project.
+
+**Link to website:** [Jake Turelli](https://www.jaketurelli.com)
 
 
 ### Day 17: January 22, 2017
