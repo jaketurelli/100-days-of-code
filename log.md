@@ -17,6 +17,18 @@ notes on Ruby
 10. store all external data as UTF-8
 
 
+
+### Day 19: January 27, 2017
+
+**Today's Progress**:  I realized I need to be working in a unix environment for Ruby on Rails. My next hour of code will be dedicated to partitioning my machine with unix. :) 
+
+**Thoughts:** I took some time off after I finished my first Ruby tutorial. I took some time to think about what steps I want to take next. I have decided to work through the Odin Project. In reading through the preface of the Odin Project, I noticed that Ruby on Rails is built for coding in unix/Mac environments. This makes sense as to why my tutorial work wasn't quite working out properly on my windows machine.
+
+**Dual Boot** [WindowsDualBoot](https://help.ubuntu.com/community/WindowsDualBoot)
+
+**Next Project** [Odin Project](http://www.theodinproject.com/courses/ruby-on-rails/lessons/how-this-course-will-work-ruby-on-rails)
+
+
 ### Day 18: January 23, 2017
 
 **Today's Progress**: Finished the blog RoR getting started tutorial. 1 hour.
