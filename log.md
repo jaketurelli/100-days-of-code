@@ -15,7 +15,19 @@ notes on Ruby
 8. [Ruby on Rails mailing list](http://groups.google.com/group/rubyonrails-talk)
 9. [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html#getting-up-and-running)
 10. store all external data as UTF-8
+11. [WindowsDualBoot](https://help.ubuntu.com/community/WindowsDualBoot)
+12. [Odin Project](http://www.theodinproject.com/courses/ruby-on-rails/lessons/how-this-course-will-work-ruby-on-rails)
+13. [Machine Learning Mastery](http://machinelearningmastery.com/start-here)
+14. [Getting started with R](http://machinelearningmastery.com/machine-learning-in-r-step-by-step/)
 
+### Day 20: February 18, 2017
+
+**Today's Progress**: Took a bit of a break. I found a Machine Learning course on Udacity I would like to try out to see if I am interested in Machine Learning. 
+
+**Thoughts:** There may be some good opportunities in Machine Learning at Northrop and I would like to dabble in it to see if it is something I want to persue.
+
+**Learning R** [Getting started with R](http://machinelearningmastery.com/machine-learning-in-r-step-by-step/)
+**Udacity** [Udacity](https://classroom.udacity.com/courses/ud262/lessons/313488098/concepts/6745187910923)
 
 
 ### Day 19: January 27, 2017
